@@ -1,0 +1,16 @@
+/home/leonardo/PRATICAS_Csharp_e_POO/Recapitulando_Logica_com_Csharp/ex2EstruturaCondicional/ex6/bin/Debug/net5.0/ex6
+/home/leonardo/PRATICAS_Csharp_e_POO/Recapitulando_Logica_com_Csharp/ex2EstruturaCondicional/ex6/bin/Debug/net5.0/ex6.deps.json
+/home/leonardo/PRATICAS_Csharp_e_POO/Recapitulando_Logica_com_Csharp/ex2EstruturaCondicional/ex6/bin/Debug/net5.0/ex6.runtimeconfig.json
+/home/leonardo/PRATICAS_Csharp_e_POO/Recapitulando_Logica_com_Csharp/ex2EstruturaCondicional/ex6/bin/Debug/net5.0/ex6.runtimeconfig.dev.json
+/home/leonardo/PRATICAS_Csharp_e_POO/Recapitulando_Logica_com_Csharp/ex2EstruturaCondicional/ex6/bin/Debug/net5.0/ex6.dll
+/home/leonardo/PRATICAS_Csharp_e_POO/Recapitulando_Logica_com_Csharp/ex2EstruturaCondicional/ex6/bin/Debug/net5.0/ref/ex6.dll
+/home/leonardo/PRATICAS_Csharp_e_POO/Recapitulando_Logica_com_Csharp/ex2EstruturaCondicional/ex6/bin/Debug/net5.0/ex6.pdb
+/home/leonardo/PRATICAS_Csharp_e_POO/Recapitulando_Logica_com_Csharp/ex2EstruturaCondicional/ex6/obj/Debug/net5.0/ex6.csprojAssemblyReference.cache
+/home/leonardo/PRATICAS_Csharp_e_POO/Recapitulando_Logica_com_Csharp/ex2EstruturaCondicional/ex6/obj/Debug/net5.0/ex6.GeneratedMSBuildEditorConfig.editorconfig
+/home/leonardo/PRATICAS_Csharp_e_POO/Recapitulando_Logica_com_Csharp/ex2EstruturaCondicional/ex6/obj/Debug/net5.0/ex6.AssemblyInfoInputs.cache
+/home/leonardo/PRATICAS_Csharp_e_POO/Recapitulando_Logica_com_Csharp/ex2EstruturaCondicional/ex6/obj/Debug/net5.0/ex6.AssemblyInfo.cs
+/home/leonardo/PRATICAS_Csharp_e_POO/Recapitulando_Logica_com_Csharp/ex2EstruturaCondicional/ex6/obj/Debug/net5.0/ex6.csproj.CoreCompileInputs.cache
+/home/leonardo/PRATICAS_Csharp_e_POO/Recapitulando_Logica_com_Csharp/ex2EstruturaCondicional/ex6/obj/Debug/net5.0/ex6.dll
+/home/leonardo/PRATICAS_Csharp_e_POO/Recapitulando_Logica_com_Csharp/ex2EstruturaCondicional/ex6/obj/Debug/net5.0/ref/ex6.dll
+/home/leonardo/PRATICAS_Csharp_e_POO/Recapitulando_Logica_com_Csharp/ex2EstruturaCondicional/ex6/obj/Debug/net5.0/ex6.pdb
+/home/leonardo/PRATICAS_Csharp_e_POO/Recapitulando_Logica_com_Csharp/ex2EstruturaCondicional/ex6/obj/Debug/net5.0/ex6.genruntimeconfig.cache
