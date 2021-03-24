@@ -1,0 +1,16 @@
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0/bin/Debug/net5.0/ex0
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0/bin/Debug/net5.0/ex0.deps.json
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0/bin/Debug/net5.0/ex0.runtimeconfig.json
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0/bin/Debug/net5.0/ex0.runtimeconfig.dev.json
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0/bin/Debug/net5.0/ex0.dll
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0/bin/Debug/net5.0/ref/ex0.dll
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0/bin/Debug/net5.0/ex0.pdb
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0/obj/Debug/net5.0/ex0.csprojAssemblyReference.cache
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0/obj/Debug/net5.0/ex0.GeneratedMSBuildEditorConfig.editorconfig
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0/obj/Debug/net5.0/ex0.AssemblyInfoInputs.cache
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0/obj/Debug/net5.0/ex0.AssemblyInfo.cs
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0/obj/Debug/net5.0/ex0.csproj.CoreCompileInputs.cache
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0/obj/Debug/net5.0/ex0.dll
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0/obj/Debug/net5.0/ref/ex0.dll
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0/obj/Debug/net5.0/ex0.pdb
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0/obj/Debug/net5.0/ex0.genruntimeconfig.cache

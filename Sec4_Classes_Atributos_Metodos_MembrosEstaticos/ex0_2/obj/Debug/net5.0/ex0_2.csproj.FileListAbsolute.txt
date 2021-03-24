@@ -1,0 +1,16 @@
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0_2/bin/Debug/net5.0/ex0_2
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0_2/bin/Debug/net5.0/ex0_2.deps.json
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0_2/bin/Debug/net5.0/ex0_2.runtimeconfig.json
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0_2/bin/Debug/net5.0/ex0_2.runtimeconfig.dev.json
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0_2/bin/Debug/net5.0/ex0_2.dll
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0_2/bin/Debug/net5.0/ref/ex0_2.dll
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0_2/bin/Debug/net5.0/ex0_2.pdb
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0_2/obj/Debug/net5.0/ex0_2.csprojAssemblyReference.cache
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0_2/obj/Debug/net5.0/ex0_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0_2/obj/Debug/net5.0/ex0_2.AssemblyInfoInputs.cache
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0_2/obj/Debug/net5.0/ex0_2.AssemblyInfo.cs
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0_2/obj/Debug/net5.0/ex0_2.csproj.CoreCompileInputs.cache
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0_2/obj/Debug/net5.0/ex0_2.dll
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0_2/obj/Debug/net5.0/ref/ex0_2.dll
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0_2/obj/Debug/net5.0/ex0_2.pdb
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/ex0_2/obj/Debug/net5.0/ex0_2.genruntimeconfig.cache
