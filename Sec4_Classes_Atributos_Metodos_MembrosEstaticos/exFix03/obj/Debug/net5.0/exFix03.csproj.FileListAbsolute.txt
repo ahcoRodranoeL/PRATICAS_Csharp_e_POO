@@ -1,0 +1,16 @@
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/exFix03/bin/Debug/net5.0/exFix03
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/exFix03/bin/Debug/net5.0/exFix03.deps.json
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/exFix03/bin/Debug/net5.0/exFix03.runtimeconfig.json
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/exFix03/bin/Debug/net5.0/exFix03.runtimeconfig.dev.json
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/exFix03/bin/Debug/net5.0/exFix03.dll
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/exFix03/bin/Debug/net5.0/ref/exFix03.dll
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/exFix03/bin/Debug/net5.0/exFix03.pdb
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/exFix03/obj/Debug/net5.0/exFix03.csprojAssemblyReference.cache
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/exFix03/obj/Debug/net5.0/exFix03.GeneratedMSBuildEditorConfig.editorconfig
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/exFix03/obj/Debug/net5.0/exFix03.AssemblyInfoInputs.cache
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/exFix03/obj/Debug/net5.0/exFix03.AssemblyInfo.cs
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/exFix03/obj/Debug/net5.0/exFix03.csproj.CoreCompileInputs.cache
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/exFix03/obj/Debug/net5.0/exFix03.dll
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/exFix03/obj/Debug/net5.0/ref/exFix03.dll
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/exFix03/obj/Debug/net5.0/exFix03.pdb
+/home/leonardo/PRATICAS_Csharp_e_POO/Sec4_Classes_Atributos_Metodos_MembrosEstaticos/exFix03/obj/Debug/net5.0/exFix03.genruntimeconfig.cache
