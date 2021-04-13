@@ -11,13 +11,17 @@ namespace exFix02
 
             Console.Write("Nome: ");
             f.Nome = Console.ReadLine();
+
             System.Console.Write("Salário Bruto: ");
             f.SalarioBruto = double.Parse(Console.ReadLine());
+
             System.Console.Write("Imposto: ");
             f.Imposto = double.Parse(Console.ReadLine());
 
             System.Console.WriteLine("Funcionário: " + f);
+
             System.Console.WriteLine();
+            
             System.Console.Write("Digite a porcentagem para aumentar o Salário: ");
             double aumento = double.Parse(Console.ReadLine());
             f.AumentoSalario(aumento);
